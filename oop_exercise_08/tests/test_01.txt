@@ -1,0 +1,10 @@
+square 0 0 1
+triangle 0 0 2
+rectangle 0 0 3 4
+triangle 1 1 1
+triangle 2 2 2
+triangle 3 3 3
+square 5 5 1
+rectangle 5 5 1 2
+square 0 0 5
+exit
